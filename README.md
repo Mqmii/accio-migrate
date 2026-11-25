@@ -3,6 +3,9 @@
 A **single-file** tool for migrating Accio chat history from one account to another.
 It **automatically discovers** account IDs and identity formats — no need to memorize emails/IDs.
 
+> **Disclaimer:** Unofficial tool; not affiliated with or endorsed by Accio. Use at your
+> own risk. Moving corporate chat data into a personal account may violate company policy.
+
 ```
 accio_migrate.py   # single file, Python stdlib only
 _selftest.py       # 81 checks with synthetic data — does NOT touch real data
