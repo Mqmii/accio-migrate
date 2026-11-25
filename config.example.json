@@ -1,0 +1,5 @@
+{
+  "freemail_url": "https://your-freemail-worker.workers.dev",
+  "freemail_token": "your-jwt-token",
+  "accio_exe": "<Accio exe tam yolu>"
+}

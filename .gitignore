@@ -1,0 +1,20 @@
+# Python bytecode (may contain personal data from older versions)
+__pycache__/
+*.py[cod]
+
+# Local configuration and secrets
+config.json
+migrate_config.json
+*.env
+.env
+
+# Accio data / backups / export packages must never end up in the repo
+.accio/
+backups/
+*.accioexport
+
+# Editor / operating system
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
